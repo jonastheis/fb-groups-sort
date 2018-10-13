@@ -12,8 +12,9 @@ I wrote the script to simplify my room hunt (literally) in Amsterdam in summer 2
 1. Install [Tampermonkey](https://tampermonkey.net/) in your browser
 2. Create new script and copy contents from [script.js](script.js)
 3. Optional: Edit words you want to be highlighted in file
-4. Activate script
-5. You can verify if it is active by going to a Facebook group and checking for a small red 1 at the Tampermonkey icon
+4. Optional 2: Remove `._3b-9 { display: none;}'` to display comments
+5. Activate script
+6. You can verify if it is active by going to a Facebook group and checking for a small red 1 at the Tampermonkey icon
 
 ## Usage
 
