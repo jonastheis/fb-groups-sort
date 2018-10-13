@@ -13,7 +13,7 @@ I wrote the script to simplify my room hunt (literally) in Amsterdam in summer 2
 2. Create new script and copy contents from [script.js](script.js)
 3. Optional: Edit words you want to be highlighted in file
 4. Activate script
-5. You can verify if it is active by going to a Facebook group and checking for a small red 1 at the Tampermonky icon
+5. You can verify if it is active by going to a Facebook group and checking for a small red 1 at the Tampermonkey icon
 
 ## Usage
 
